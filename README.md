@@ -23,4 +23,4 @@ Connect these pins to your components.
 | Play/Pause | 4    |
 | Next       | 5    |
 
-<img width="412" height="487" alt="image" src="https://github.com/user-attachments/assets/4fee02e7-7b5f-49fa-b38b-7014067229c9" />
+<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2026-03-09" src="https://github.com/user-attachments/assets/6693b37b-8191-4881-ba39-19514da81683" />
