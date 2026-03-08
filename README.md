@@ -22,3 +22,5 @@ Connect these pins to your components.
 | Rewind     | 3    |
 | Play/Pause | 4    |
 | Next       | 5    |
+
+<img width="412" height="487" alt="image" src="https://github.com/user-attachments/assets/4fee02e7-7b5f-49fa-b38b-7014067229c9" />
