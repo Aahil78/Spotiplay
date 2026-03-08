@@ -3,7 +3,7 @@ A spotify display with RGB Backlight, 2.8" Touchscreen, and media keys. I made t
 
 [OnShape](https://cad.onshape.com/documents/b8106d655d1fdcd5106cc52a/w/5e26d62ee724bca1cb348ddc/e/785bae49cdaf2f3d98875e78?renderMode=0&uiState=69adb7d1b4e6ea33d7a65cff)
 
-**Pictures inn 3D Models folder**
+**Pictures in 3D Models folder**
 
 ## Pins:
 
