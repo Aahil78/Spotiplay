@@ -1,12 +1,13 @@
 Name,Purpose,Cost_USD,Qty,Total_USD,Link,Distributor
-20awg Wire,"For soldering components together. Wires are for initial prototyping",3.00,1,3.00,"Link to Listing","AliExpress"
-Rubber Feet,"To make sure the display stays on the desk",2.93,1,2.93,"Link to Listing","AliExpress"
-SK6812 RGB LED Strip,"To show an aura that changes according to the cover art",5.45,1,5.45,"Link to Listing","AliExpress"
-MX Switches (Yellow),"Controls",2.67,1,2.67,"Link to Listing","AliExpress"
-Self Tapping Screws (M3x14mm),"Connect the top and bottom case together",2.10,1,2.10,"Link to Listing","AliExpress"
-Nuts (M3),"Fasten the LCD",1.20,1,1.20,"Link to Listing","AliExpress"
-ESP32-S3 Nano,"Main MCU",8.17,1,8.17,"Link to Listing","AliExpress"
-2.8 inch ILI9341 LCD,"Display to show content",8.63,1,8.63,"Link to Listing","AliExpress"
-Female to Female Wires,"Connect components during prototyping",1.85,1,1.85,"Link to Listing","AliExpress"
-Screws (M3x6mm),"Fasten the LCD",2.17,1,2.17,"Link to Listing","AliExpress"
-Male Headers,"Solder onto the dev board",1.61,1,1.61,"Link to Listing","AliExpress"
+20awg Wire,"For soldering components together. Wires are for initial prototyping",3.00,1,3.00,"Link to Listing","AliExpress",
+Rubber Feet,"To make sure the display stays on the desk",2.93,1,2.93,"Link to Listing","AliExpress",
+SK6812 RGB LED Strip,"To show an aura that changes according to the cover art",5.45,1,5.45,"Link to Listing","AliExpress",
+MX Switches (Yellow),"Controls",2.67,1,2.67,"Link to Listing","AliExpress",
+Self Tapping Screws (M3x14mm),"Connect the top and bottom case together",2.10,1,2.10,"Link to Listing","AliExpress",
+Nuts (M3),"Fasten the LCD",1.20,1,1.20,"Link to Listing","AliExpress",
+ESP32-S3 Nano,"Main MCU",8.17,1,8.17,"Link to Listing","AliExpress",
+2.8 inch ILI9341 LCD,"Display to show content",8.63,1,8.63,"Link to Listing","AliExpress",
+Female to Female Wires,"Connect components during prototyping",1.85,1,1.85,"Link to Listing","AliExpress",
+Screws (M3x6mm),"Fasten the LCD",2.17,1,2.17,"Link to Listing","AliExpress",
+Male Headers,"Solder onto the dev board",1.61,1,1.61,"Link to Listing","AliExpress",
+
