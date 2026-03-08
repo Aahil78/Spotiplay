@@ -1,5 +1,7 @@
 # Spotiplay
-A spotify display with RGB Backlight, 2.8" Touchscreen, and media keys.
+A spotify display with RGB Backlight, 2.8" Touchscreen, and media keys. I made this because I have always wanted to have a mini spotify "dashboard" as it was really cool to have and it's a nice Quality of Life improvement.
+
+[OnShape](https://cad.onshape.com/documents/b8106d655d1fdcd5106cc52a/w/5e26d62ee724bca1cb348ddc/e/785bae49cdaf2f3d98875e78?renderMode=0&uiState=69adb7d1b4e6ea33d7a65cff)
 
 ## Pins:
 
